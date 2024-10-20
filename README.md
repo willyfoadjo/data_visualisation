@@ -10,8 +10,8 @@ In this project I perform the following:
   - Visualize comparison of data
 
 ### Create a basic dashboard with Dash
-    ![RecessionReportgraphs](https://github.com/user-attachments/assets/4fcddefc-a9e2-499b-a4c9-0fe44cf7b65b)
-    ![YearlyReportgraphs](https://github.com/user-attachments/assets/c7d35a9d-05e2-46e2-8cae-edd8a5b5a86c)
+![RecessionReportgraphs](https://github.com/user-attachments/assets/4fcddefc-a9e2-499b-a4c9-0fe44cf7b65b)
+![YearlyReportgraphs](https://github.com/user-attachments/assets/c7d35a9d-05e2-46e2-8cae-edd8a5b5a86c)
 
 ### Visualize the distribution of data
 <img width="712" alt="image" src="https://github.com/user-attachments/assets/e5bbed09-9832-448d-80d9-05beac7391e9">
